@@ -1,9 +1,9 @@
 import React from 'react'
-import Button from '../components/Button'
+import Button from '../components/Button.jsx'
 import { arrowRight } from '../assets/icons'
 import { shoes, statistics } from '../constants'
 import { bigShoe1 } from '../assets/images'
-import ShoeCard from '../components/ShoeCard'
+import ShoeCard from '../components/ShoeCard.jsx'
 import { useState } from 'react'
 
 const Hero = () => {
